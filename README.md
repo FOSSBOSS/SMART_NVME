@@ -1,5 +1,5 @@
 # SMART_NVME
-While there are CLI tools to show NVME disk health, simple FOSS GUIs have not caught up to report  NVME Dish health in a human readable way.
+While there are CLI tools to show NVME disk health, simple FOSS GUIs have not caught up to report  NVME Disk health in a human readable way.
 
 So I'll make one.
 ah, lets see... Here are some commands:
